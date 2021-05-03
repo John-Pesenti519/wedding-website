@@ -41,7 +41,7 @@ export default ({
       RSVP
     </>
   ),
-  description = "Our guests will be staying at the Courtyard Marroitt in Rockaway-Mt. Arlinton. We are still finalizing our block, so check back here soon to find the booking link.",
+  description = "Our guests will be staying at the Courtyard Marriott in Rockaway-Mt. Arlington. We are still finalizing our block, so check back here soon to find the booking link.",
   imageSrc = StatsIllustrationSrc,
   imageCss = null,
   imageContainerCss = null,

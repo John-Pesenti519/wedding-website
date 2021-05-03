@@ -41,7 +41,7 @@ export default ({
       COVID-19
     </>
   ),
-  description = "While we are very excited to see everyone, safety is still our top priority at our wedding. At this momnent, we are not sure what guidelines and restrictions will be in place in mid July. We will try to keep this webpage updated with the latest information. For now, follow the link below to see the Perona Farms COVID-19 polices.",
+  description = "While we are very excited to see everyone, safety is still our top priority at our wedding. At this moment, we are not sure what guidelines and restrictions will be in place in mid July. We will try to keep this webpage updated with the latest information. For now, follow the link below to see the Perona Farms COVID-19 polices.",
   imageSrc = StatsIllustrationSrc,
   imageCss = null,
   imageContainerCss = null,

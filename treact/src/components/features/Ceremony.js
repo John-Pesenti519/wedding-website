@@ -55,10 +55,15 @@ export default ({
   //Change the statistics variable as you like, add or delete objects
   const defaultStatistics = [
     {
+      key: "St Michael's Cathedral",
+      value: "Thursday July 15th"
+    },
+    {
+      key: "Ceremony",
       value: "1:00pm"
     },
     {
-      value: "St Michael's Cathedral, 96 1st Street, Passaic NJ"
+      value: "96 1st Street, Passaic NJ"
     }
   ];
 

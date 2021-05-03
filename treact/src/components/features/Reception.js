@@ -55,6 +55,10 @@ export default ({
   //Change the statistics variable as you like, add or delete objects
   const defaultStatistics = [
     {
+      key: "Perona Farms",
+      value: "Thursday July 15th"
+    },
+    {
       key: "Cocktails",
       value: "6:00pm"
     },
@@ -63,7 +67,7 @@ export default ({
       value: "7:00pm"
     },
     {
-      value: "Perona Farms, 350 Andover Sparta Rd, Green Township, NJ"
+      value: "350 Andover Sparta Rd, Green Township, NJ"
     }
   ];
 

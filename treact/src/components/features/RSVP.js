@@ -41,7 +41,7 @@ export default ({
       RSVP
     </>
   ),
-  description = "Our guests will be staying at the Courtyard Marriott in Rockaway-Mt. Arlington. We are still finalizing our block, so check back here soon to find the booking link.",
+  description = "Please send your RSVP via our Google form, which you'll find below (or by mail using the RSVP card included with your invite) Our guests will be staying at the Courtyard Marriott in Rockaway-Mt. Arlington. Book your room today by following the booking link.",
   imageSrc = StatsIllustrationSrc,
   imageCss = null,
   imageContainerCss = null,
@@ -55,7 +55,10 @@ export default ({
   //Change the statistics variable as you like, add or delete objects
   const defaultStatistics = [
     {
-      value: "Hotel booking link coming soon..."
+      value: <a href="https://forms.gle/94BP7r7m4cEgwijY6">RSVP to our wedding</a>
+    },
+    {
+      value: <a href="http://bit.ly/TurachikPesentiWed21">Book your hotel room in our block</a>
     }
   ];
 

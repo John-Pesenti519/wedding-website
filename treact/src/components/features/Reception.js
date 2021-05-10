@@ -41,7 +41,7 @@ export default ({
       Reception
     </>
   ),
-  description = "Our reception will be at The Refinery at Perona Farms. While there is plenty of parking at the venue we will also be providing transportation to and from your hotel. Rain or shine, it's bound to be a beautiful and luxurious evening.",
+  description = "Our reception will be at The Refinery at Perona Farms. While there is plenty of parking at the venue we will also be providing transportation to and from your hotel. Rain or shine, it's bound to be a beautiful and luxurious evening. Please dress semi-formally.",
   imageSrc = StatsIllustrationSrc,
   imageCss = null,
   imageContainerCss = null,
